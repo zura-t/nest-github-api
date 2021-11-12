@@ -2,6 +2,7 @@
 
 ### Get commits
 https://nest-github-api.herokuapp.com/commits/:branch
+<br>
 Example: https://nest-github-api.herokuapp.com/commits/master
 
 ### Get commits messages
